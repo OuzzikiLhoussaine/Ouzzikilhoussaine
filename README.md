@@ -55,7 +55,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=OuzzikiLhoussaine&color=0&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=OuzzikiLhoussaine)
 
 </div>
 
