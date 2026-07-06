@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ouzziki Lhoussaine
 
-**Building clean, functional software**
 
 ---
 
@@ -72,11 +71,8 @@
 - 🔭 Working on clean, functional web and mobile applications  
 - 🌱 Exploring modern frontend & best practices  
 - 👯 Open to collaborations  
-- 💬 Ask me about: **PHP**, **Kotlin**, **Java EE**, **Android**, clean code  
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/lhoussaineouzziki)
 
 ---
-
-> *Proudly created with terminal vibes + badges • Fork the idea and make it yours!*
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
