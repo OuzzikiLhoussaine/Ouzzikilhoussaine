@@ -48,13 +48,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OuzzikiLhoussaine&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
-<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OuzzikiLhoussaine&theme=merko&layout=compact&hide_border=false)
-
-<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=OuzzikiLhoussaine&theme=merko&hide_border=false)
 
